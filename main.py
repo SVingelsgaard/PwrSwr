@@ -16,4 +16,7 @@ class scraper:
         self.headers = headers
         self.cookies = cookies
 
+    def gatherData(self):
+        
+
 scraper(url, headers, cookies)
